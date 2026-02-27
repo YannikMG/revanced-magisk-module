@@ -32,7 +32,7 @@ version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-included-patches = "'Custom branding name for YouTube' 'Custom branding icon for YouTube'"
+included-patches = "'Custom branding name for YouTube' 'Custom branding icon for YouTube' 'Theme'"
 patcher-args = "--legacy-options=patch-options.json"
 
 [Twitter]
