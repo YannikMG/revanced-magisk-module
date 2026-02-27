@@ -1,20 +1,21 @@
 [
-  {
-    "patchName": "Custom branding icon for YouTube Music",
-    "options": [
-      {
-        "key": "appIcon",
-        "value": "revancify_blue"
-      }
-    ]
-  },
-  {
-    "patchName": "GmsCore support",
-    "options": [
-      {
-        "key": "packageNameYouTubeMusic",
-        "value": "app.rvx.android.apps.youtube.music"
-      }
-    ]
-  }
+    {
+        "patches": {
+            "Custom branding icon for YouTube Music": {
+                "enabled": true,
+                "options": {
+                    "appIcon": "revancify_blue"
+                }
+            },
+            "Custom branding name for YouTube Music": {
+                "enabled": true
+            },
+            "GmsCore support": {
+                "enabled": true,
+                "options": {
+                    "packageNameYouTubeMusic": "app.rvx.android.apps.youtube.music"
+                }
+            }
+        }
+    }
 ]
