@@ -1,6 +1,6 @@
 {
-  "version": "v20.05.46 (patches dev.6.mpp)",
-  "versionCode": 5,
-  "zipUrl": "https://github.com/YannikMG/revanced-magisk-module/releases/download/5/youtube-revanced-extended-module-v20.05.46-all.zip",
+  "version": "v20.05.46 (patches dev.13.mpp)",
+  "versionCode": 6,
+  "zipUrl": "https://github.com/YannikMG/revanced-magisk-module/releases/download/6/youtube-revanced-extended-module-v20.05.46-all.zip",
   "changelog": "https://raw.githubusercontent.com/YannikMG/revanced-magisk-module/update/build.md"
 }
