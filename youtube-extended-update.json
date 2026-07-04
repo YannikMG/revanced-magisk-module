@@ -1,6 +1,6 @@
 {
-  "version": "v20.51.39 (patches dev.1.mpp)",
-  "versionCode": 66,
-  "zipUrl": "https://github.com/YannikMG/revanced-magisk-module/releases/download/66/youtube-revanced-extended-module-v20.51.39-all.zip",
+  "version": "v20.51.39 (patches dev.2.mpp)",
+  "versionCode": 67,
+  "zipUrl": "https://github.com/YannikMG/revanced-magisk-module/releases/download/67/youtube-revanced-extended-module-v20.51.39-all.zip",
   "changelog": "https://raw.githubusercontent.com/YannikMG/revanced-magisk-module/update/build.md"
 }
